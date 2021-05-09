@@ -2,7 +2,7 @@
 
 NOTE:
 Some Code was taken from other free open source projects. 
-The code with mispelled variables is the unoriginal code. Everything else is original.
+The function void time() is unoriginal. Everything else is original.
 
 ==============================================================================
 
