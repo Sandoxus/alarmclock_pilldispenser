@@ -10,5 +10,3 @@ This project is only meant to be a showcase for the project. However, the code i
 source so you may use it in your projects as well. If you have any questions about
 anything on this repository or would like to create something like this of your own
 please feel free to send a message to my GitHub account (Sandoxus).
-
-==============================================================================
